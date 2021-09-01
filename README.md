@@ -7,6 +7,8 @@
 * Press the "enter" button.
 * Get the result.
 * Add an operator and another number if you want to continue calculating. 
+* 
+![alt text](https://github.com/moorcore/solbegsoft-console-calculator/blob/master/Console%20Calculator%20-%20Boykin.png)
 
 
 # App architecture
@@ -15,3 +17,5 @@
 * All operations are implemented in class Calculator.
 * The application is able to work with 2 numbers. 
 * Available operations: + - * /
+
+
